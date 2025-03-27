@@ -1,0 +1,12 @@
+{
+  "name": "dvoting-master",
+  "version": "1.0.0",
+  "description": "A decentralised voting system based on [Ethereum blockchain](https://ethereum.org/dapps/) technology.",
+  "main": "truffle-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
